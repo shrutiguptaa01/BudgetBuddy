@@ -119,7 +119,7 @@ npm start
 - AI powered financial chatbot
 - Real time notifications & reminders
 - Advanced investment suggestions
-- 
+
 ## Conclusion
 
 Budget Buddy helps salaried individuals:
@@ -128,6 +128,7 @@ Budget Buddy helps salaried individuals:
 - Save money smartly
 - Plan future investments
 - Make AIdriven financial decisions
+
 
 
 
